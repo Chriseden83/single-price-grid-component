@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/price-component.jpg)
+![](/images/price-component.png)
 
 ### Links
 
