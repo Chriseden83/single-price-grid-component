@@ -24,12 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./price-component.jpg)
+![](./images/price-component.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://chriseden83.github.io/single-price-grid-component/)
 
 ## My process
 
@@ -47,6 +46,6 @@ Responsive mobile first price component for 2 different platforms (Mobile & Desk
 
 ## Author
 
-- Website - [Chris Eden](https://www.chris-eden.com)
+- Website - [Chris Eden](http://www.chris-eden.com)
 - Frontend Mentor - [@chriseden83](https://www.frontendmentor.io/profile/chriseden83)
 - Twitter - [@dayrelease_dev](https://www.twitter.com/dayrelease_dev)
