@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-Mobile
+Responsive mobile first price component for 2 different platforms (Mobile & Desktop). Flexbox to center the component in the middle of the browser and CSS Grid for desktop devices.
 
 ## Author
 
